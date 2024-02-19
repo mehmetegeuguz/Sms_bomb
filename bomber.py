@@ -21,7 +21,7 @@ for x in range(12):
 	password = _name + random.choice(list('qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM123456789'))
 	username = _name + random.choice(list('qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM123456789'))
 
-_phone9 = _phone[1:]
+_phone9 = _phone[05466863043:]
 
 num = _phone
 numplus = '+' + num
